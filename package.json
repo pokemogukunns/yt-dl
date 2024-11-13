@@ -4,5 +4,8 @@
   "dependencies": {
     "yt-dlp": "^1.0.0",
     "ytdl-core": "^4.9.1"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
