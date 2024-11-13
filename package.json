@@ -1,6 +1,9 @@
 {
   "name": "yt-downloader",
   "version": "1.0.0",
+  "engines": {
+    "node": "20.x"
+  },
   "dependencies": {
     "yt-dlp": "^1.0.0",
     "ytdl-core": "^4.9.1"
